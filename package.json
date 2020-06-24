@@ -1,0 +1,23 @@
+{
+  "name": "date",
+  "version": "1.0.0",
+  "description": "Step 1: Take input D\r Step 2: Traverse the dict or 2D array\r Step 3: Compare the consecutive dates and add missing dates\r         i  dates can be added by using setDate() and getDate\r         ii convert the acquired date in required format\r         iiiUse the formula to calculate value\r Step 4: Convert the 2D array back to dict as asked",
+  "main": "func.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordnodd/MissingDatesAndValues.git"
+  },
+  "author": "Ashwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lordnodd/MissingDatesAndValues/issues"
+  },
+  "homepage": "https://github.com/lordnodd/MissingDatesAndValues#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.1.0"
+  }
+}
